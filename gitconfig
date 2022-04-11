@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rbertolace@poli.ufrj.br
+	name = Rafael Magalhaes
